@@ -1,3 +1,4 @@
+https://gustavoalbonico.github.io/Huddle-Landing-Page/ 1440px 375px
 # Frontend Mentor - Huddle landing page with single introductory section
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
